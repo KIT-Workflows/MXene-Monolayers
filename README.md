@@ -7,3 +7,5 @@ In this workflow, the SimStack framework generates 22 configurations to analyze 
 # Colab
 *Colab notebook for data visualization.
 This notebook calculates the thermodynamic propertie attributes from the ab initio calculations executed from the MXenes Workflow. Below, we'd like to describe the functions the actual version covers.
+# Optimized_input folder
+In this folder is located the converged POSCAR and INCAR input files for all the geometries and  MXene structures studied in this project.
